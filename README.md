@@ -28,5 +28,13 @@ The goal is to analyze cost patterns, treatment delays, and prescribing behavior
 3. **Trend Charts** – Display the evolution of cancer drug costs over time, alongside comparisons with other historical therapies submitted for repricing.  
 
 ---
+## repository Structure
 
-## Repository Structure
+│
+├── data/ # Raw and processed datasets
+├── notebooks/ # Jupyter notebooks for EDA and visualizations
+├── src/ # Scripts for data cleaning, analysis, and modeling
+├── dashboards/ # Interactive dashboards (Plotly, Dash, or Streamlit)
+├── requirements.txt # Python dependencies
+├── README.md
+└── .gitignore
