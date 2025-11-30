@@ -1,0 +1,9 @@
+### **Optional: Create a zip of the project for upload**
+Open a terminal in the parent directory of your project folder:
+
+```bash
+# Navigate to the folder containing your project
+cd path/to/parent-folder
+
+# Create a zip file of the project
+zip -r da-drug-pricing-study_lw-05.zip da-drug-pricing-study_lw-05/
